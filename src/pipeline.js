@@ -1,4 +1,4 @@
-export default async function pipeline (event, context) {
+export default function pipeline (event, context) {
 
     /*
      *  DO YOUR STUFF HERE
